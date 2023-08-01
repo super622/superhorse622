@@ -1,12 +1,4 @@
-<img  alt="my banner"  src="cover photo.png" /> 
-<h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"/>, I'm Ayush !</h1>
-
-[![Linkedin Badge](https://img.shields.io/badge/-ayushborage-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-borage-3ab166225/)](https://www.linkedin.com/in/ayush-borage-3ab166225/)
-[![Medium Badge](https://img.shields.io/badge/-@ayushborage28-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ayushborage28)](https://medium.com/@ayushborage28)
-[![Website Badge](https://img.shields.io/badge/-ayushborage.tech-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ayush-borage.tech/)](https://ayush-borage.tech/)
-[![Twitter Badge](https://img.shields.io/badge/-@ayushborage-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/i/flow/login?redirect_after_login=%2FAyushBorage)](https://twitter.com/i/flow/login?redirect_after_login=%2FAyushBorage)
-[![Instagram Badge](https://img.shields.io/badge/-@itsayush__02-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/itsayush_02/)](https://www.instagram.com/itsayush_02/)
-[![Gmail Badge](https://img.shields.io/badge/-ayushborage28-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ayushborage28@gmail.com)](mailto:ayushborage28@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-masonrose622-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:masonrose622@gmail.com)](mailto:masonrose622@gmail.com)
 
 <h3 align="left">A web-wizard from India, conjuring digital wonders with code.</h3>
 
@@ -19,11 +11,9 @@
 
 <!-- - 👨‍💻 All of my projects are available at **** -->
 
-- 📫 Reach me at **ayushborage28@gmail.com**
+- 📫 Reach me at **masonrose622@gmail.com**
 
 - ⚡ Fun fact **I like to** read books and write jokes
-
-- 🤝  I love to interact with people, let's meet **[here](https://calendly.com/ayushborage/30min)** and talk on whichever topic you want.
   
 - 📝  Checkout my **[resume](https://drive.google.com/file/d/1AKmGgnnnepx_801Yhry0XoA8TagKkNoj/view?usp=sharing)**
 
