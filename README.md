@@ -1,20 +1,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-masonrose622-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:masonrose622@gmail.com)](mailto:masonrose622@gmail.com)
 
-### 🙋‍♂️ About Me
   <img align="right" alt="GIF" height="200rem" width="200rem" src="code.gif" /> 
 
-- 🔭 I’m currently working as a **Freelancer**
-
-<!-- - 👨‍💻 All of my projects are available at **** -->
-
-- 📫 Reach me at **masonrose622@gmail.com**
-
-- ⚡ Fun fact **I like to** read books and write jokes
-  
-- 📝  Checkout my **[resume](https://drive.google.com/file/d/1AKmGgnnnepx_801Yhry0XoA8TagKkNoj/view?usp=sharing)**
-
-With over 7 years of experience in mobile and web development.
-My skill set includes mastery in React Native, Flutter, Swift, Blockchain, Cryptocurrency, Rust, Java, Kotlin, JavaScript, TypeScript, Python etc ...
+With over 7 years of experience in Software engineer.
+My skill set includes mastery in REact, Vue, Web3.js, Ether.js, Solidity, Solana, Blockchain, Cryptocurrency, Rust, Java, Kotlin, JavaScript, TypeScript, Python etc ...
 
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="rain" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superhorse622&theme=dracula" alt="slytherin-dev" /></a></p>
