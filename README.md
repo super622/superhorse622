@@ -1,6 +1,4 @@
-[![Gmail Badge](https://img.shields.io/badge/-masonrose622-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:masonrose622@gmail.com)](mailto:masonrose622@gmail.com)
-
-  <img align="right" alt="GIF" height="200rem" width="200rem" src="code.gif" /> 
+<img align="right" alt="GIF" height="200rem" width="200rem" src="code.gif" /> 
 
 With over 7 years of experience in Software engineer.
 My skill set includes mastery in REact, Vue, Web3.js, Ether.js, Solidity, Solana, Blockchain, Cryptocurrency, Rust, Java, Kotlin, JavaScript, TypeScript, Python etc ...
