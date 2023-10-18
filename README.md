@@ -4,7 +4,9 @@ With over 7 years of experience in Software engineer.
 My skill set includes mastery in REact, Vue, Web3.js, Ether.js, Solidity, Solana, Blockchain, Cryptocurrency, Rust, Java, Kotlin, JavaScript, TypeScript, Python etc ...
 
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="rain" /> </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superhorse6228&show_icons=true&theme=tokyonight)
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superhorse622&theme=dracula" alt="superhorse622" /></a></p>
+
 ### 🎶 Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zkadg5ftmi4utyaxt5aq2vpa64&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zkadg5ftmi4utyaxt5aq2vpa64&redirect=true)
 
