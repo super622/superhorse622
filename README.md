@@ -79,20 +79,4 @@ My skill set includes mastery in REact, Vue, Web3.js, Ether.js, Solidity, Solana
 </p>
 
 
- ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [UI/UX Demystified: Your Guide to Creating User-Friendly Digital Experiences!](https://medium.com/@ayushborage28/ui-ux-demystified-your-guide-to-creating-user-friendly-digital-experiences-c154da30aa9a)
-- [Mastering Multilingual Websites with React i18n: Unleash Global Awesomeness!](https://medium.com/@ayushborage28/mastering-multilingual-websites-with-react-i18n-unleash-global-awesomeness-5430c236b662)
-- [Introduction to NodeRSA: Locking Up Your Secrets](https://medium.com/@ayushborage28/introduction-to-nodersa-locking-up-your-secrets-455dc90cad5e)
-<!-- BLOG-POST-LIST:END -->
-
-
-
- <div align="center">   
-<a href="https://github.com/ayushboraeg28/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ayushborage28">
-</a>
-  </div>
-
-
 
