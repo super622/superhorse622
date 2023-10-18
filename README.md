@@ -67,7 +67,7 @@ My skill set includes mastery in REact, Vue, Web3.js, Ether.js, Solidity, Solana
 ### 📊 My Github Stats
 <div display="flex" align="center">
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superhorse6228&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superhorse622&show_icons=true&theme=tokyonight)
  
   </div>
   
