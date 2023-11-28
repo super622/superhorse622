@@ -13,7 +13,7 @@ We also developed web scraping projects using Python modules such as Flask, Scra
 
 <p align="left"> 
     <code><a href="https://www.python.org/doc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"height="42px"/></a></code>
-    <code><a href="https://www.djangoproject.com/" target="_blank"><img src="https://iconscout.com/icon/djangoproject-2752208" height="42px"/></a></code>
+    <code><a href="https://www.djangoproject.com/" target="_blank"><img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" height="42px"/></a></code>
     <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
    <code><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"height="42px"/></a></code>
    <code><a href="https://graphql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"height="42px" /></a></code>
