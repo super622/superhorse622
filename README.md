@@ -8,7 +8,6 @@ We also developed web scraping projects using Python modules such as Flask, Scra
 ### 🎶 Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zkadg5ftmi4utyaxt5aq2vpa64&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zkadg5ftmi4utyaxt5aq2vpa64&redirect=true)
 
-<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superhorse622&exclude_repo=superhorse622.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
 
 ### 🚀 Languages and Tools
 
