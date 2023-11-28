@@ -52,18 +52,4 @@ We also developed web scraping projects using Python modules such as Flask, Scra
 </p>
 
 
-### 📊 My Github Stats
-<div display="flex" align="center">
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superhorse622&show_icons=true&theme=tokyonight)
- 
-  </div>
-  
-<p align="center">
-    <a href="https://github.com/ayushborage28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Borage's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ayushborage28&theme=blueberry_duo&hide_border=true"/>
-    </a>
-</p>
-
-
 
